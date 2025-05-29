@@ -1,4 +1,4 @@
-# CS-210
+# Dual Clock Display
 
 # Summarize the project and what problem it was solving.
 The project required me to create a program that displayed two clocks simultaneously, one in a 12-hour format, and the other in a 24-hour format. A core feature of this program is the ability to manually increment the time by an hour, a minute, or a second. If the time was not incremented, then it gave the user the ability to terminate the program. The purpose of the project was to practice modular development, making sure there was the least amount of code possible within the main function. It also served as practice working with supporting materials meant to guide the development process, such as a flowchart and functional requirements document.
